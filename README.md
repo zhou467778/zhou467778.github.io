@@ -1,7 +1,7 @@
 # Wanning Zhou
 
 
-### Email Address: zhou.wann@northeastern.edu or zhou.wann@husky.neu.edu
+### Email Address: zhou.wann@northeastern.edu OR zhou.wann@husky.neu.edu
 ### My [Linkedin](https://www.linkedin.com/in/wanning-zhou-777b20183/)
 
 
