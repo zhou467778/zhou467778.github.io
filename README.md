@@ -1,6 +1,6 @@
 # Wanning Zhou
-##### Email Address: zhou.wann@northeastern.edu
-##### My [Linkedin](https://www.linkedin.com/in/wanning-zhou-777b20183/)
+### Email Address: zhou.wann@northeastern.edu
+### My [Linkedin](https://www.linkedin.com/in/wanning-zhou-777b20183/)
 
 Hello to whom is viewing, my name is Wanning Zhou, and you can also call me Ada. I come from Guangdong, China. I am a fourth-year Computer Science and Mathematics major student in Northeastern University. 
 
